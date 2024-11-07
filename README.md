@@ -1,3 +1,2 @@
 # coder decoder
-this is my first github repository
-
+this is my first github repository author-manisha
